@@ -42,7 +42,7 @@ if($task == "dologin") {
 
 <form class="well form-inline" action="login.php" id="login" method="post">
   <h1>
-    RepresentMap Admin
+    Startup Arabia Admin
   </h1>
   <?
     if($alert != "") {
