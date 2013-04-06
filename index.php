@@ -481,7 +481,7 @@ include_once "header.php";
           <?php } ?>
         </p>
         <p>
-          Questions? Feedback? Connect with us: <a href="http://www.twitter.com/startuparabia" target="_blank">@startuparabia</a>
+            Questions? Feedback? Connect with us: <a href="http://www.twitter.com/DerekHaddad" target="_blank">@DerekHaddad</a> <a href="http://www.twitter.com/conversionpoint">Simon Tadros</a>
         </p>
         
         
